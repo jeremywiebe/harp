@@ -2586,9 +2586,9 @@ tempfile@^0.1.2:
   dependencies:
     uuid "~1.4.0"
 
-terraform@mobify/terraform#update-from-upstream:
+terraform@mobify/terraform#master:
   version "1.5.0"
-  resolved "https://codeload.github.com/mobify/terraform/tar.gz/023b0e81f26095e9960f4e5fea4327679e77516c"
+  resolved "https://codeload.github.com/mobify/terraform/tar.gz/41d33a88eacc895e9e99e275a32ba43373b5e537"
   dependencies:
     autoprefixer "7.1.6"
     coffee-script "1.12.7"
